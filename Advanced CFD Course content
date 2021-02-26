@@ -1,0 +1,109 @@
+Description:
+
+In our treatment of the physics of fluid flows we have added a summary of basic ideas underpinning Direct Numerical Simulations and Numerical Analysis. 
+This course thoroughly introduce the coding based methods for the numerical problems and differential equations. 
+The course is divided into three parts, the first half covers basic theoretical and physical descriptions of Fundamental Equations and Modern CFD. 
+The second half will cover the transformation of differential equations into the algebraic equations, differencing methods and discretization methods. 
+The last part contain the numerical analysis in the form of MATLAB and C++ coding. 
+Coding based problems are tackled well in this course, so that the student of different backgrounds will learn more about related domains.
+
+If you are beginner to Computational Fluid Dynamics please go through our course Fundamentals of CFD with Hands on Experience.
+
+The successful completion of this course (Theory + Practical) would help students in achieving the following objectives, which are:
+
+To provide a sound background in the mathematics, physics of numerical analysis and computational fluid
+To conduct an effective CFD simulation of an unsteady turbulent
+To understand the underlying concept of Navier Stroke Equation
+To build a basic understanding of the equations used in different turbulence
+Will have a strong understanding about the software which will be used in this
+To develop the understanding by applying mathematical models to simple realizable configurations along with practical
+To apprehend the applications/solutions of models developed in the advanced course in industrial applications using analytical as well as numerical
+Modules:
+Turbulence and its modelling is distributed into two modules which includes the basic concepts of turbulent flow and how to encounter that flow using different models.
+
+Week 1.
+
+Fundamental Equations:
+Continuity Equation
+Momentum Equation
+Energy Equation
+One/Two/Multi equation turbulence models
+Mathematical Models:
+Differential Equations
+Laplace Transformations
+Finite Difference Methodology
+Taylor Series
+Discretization Form
+Week 2-3-4
+
+Numerical Coding:
+Introduction to Navier Stroke Equation
+Diffusion Flow Form
+1D & 2D diffusion equations
+Analytical solution (by hands)
+Numerical Solution (Via Matlab)
+Diffusion and Convection Flow Form
+1D-2D diffusion & convection flow equations
+Analytical solution (by hands)
+Numerical Solution (Via Matlab)
+Pressure and Velocity Coupling
+1D & 2D Pressure and velocity
+Analytical solution (by hands)
+Numerical Solution (Via Matlab)
+Unsteady Flow Form
+1D & 2D unsteady flow form
+Analytical solution (by hands)
+Numerical Solution (Via Matlab)
+Who Should Attend?
+This course provides a stimulation and vibrant learning environment with interaction between students of different background and regions of globe. The course is ideal for those who are:
+
+Involved in or would like to learn and perform the simulation of complex turbulent flows and need detailed best practice
+Researchers/students who plan to or are currently study in domain of fluid flow
+Experienced engineers looking for a refresher course on the physics of fluid flow and current cutting-edge modelling techniques with a particular focus on unsteady
+ 
+
+Applied/Theory:
+70% Application/30% Theory
+
+ 
+
+Web Address:
+Computational Fluid Dynamics Laboratory
+
+
+
+Web Contents:
+Syllabus, Lectures Notes and Simulated Case Studies.
+
+Case Studies:
+Each module have its case studies which include the related simulation.
+
+Textbooks:
+Versteeg, H.K. and Malalasekera, W., 2007. An introduction to computational fluid dynamics: the finite volume method. Pearson education.
+Reference Books:
+Pope, S.B., 2001. Turbulent
+Mathieu, J. and Scott, J., 2000. An introduction to turbulent flow. Cambridge University Press.
+Software Taught:
+The following software will be covered in the live sessions
+
+CAD Modeler
+ANSYS ICEM
+ANSYS FLUENT
+TECPLOT
+Microsoft Excel/MATLAB
+Instructor:
+Fahad Nawaz – Course Director
+(MS Fluid Mechanics and Computational Fluid Dynamics)
+
+Concessions:
+10% discount when register 3 or more delegates, from the same organization at the same time
+
+
+
+Computational Fluid Dynamics Laboratory
+CFD LAB PVT LTD
+Fluid Simulations Company 
+https://cfdlab.pk/
+
+
+
